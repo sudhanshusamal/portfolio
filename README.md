@@ -1,6 +1,6 @@
 # Personal portfolio
 
-[![Site preview](/public/site-preview.png)](sudhanshujs.live)
+[![Site preview](/public/site-preview.png)](https://sudhanshujs.live)
 
 My design portfolio to showcase a few projects. Built with [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [React](https://www.reactjs.org/). View the [live site](https://sudhanshujs.live).
 
