@@ -9,7 +9,7 @@ export const navLinks = [
   },
   {
     label: 'Contact',
-    pathname: 'mailto:rahulxamal@gmail.com',
+    pathname: 'mailto:samal@sudhanshujs.live',
   },
   {
     label: 'Resume',
