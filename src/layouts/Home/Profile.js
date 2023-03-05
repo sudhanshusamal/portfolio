@@ -57,7 +57,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 secondary
                 className={styles.button}
                 data-visible={visible}
-                href="mailto:rahulxamal@gmail.com"
+                href="mailto:samal@sudhanshujs.live"
                 icon="send"
               >
                 Send me a message
